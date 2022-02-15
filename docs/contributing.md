@@ -1,26 +1,6 @@
-# Welcome to libgit2!
+Hello, World!
 
-We're making it easy to do interesting things with git, and we'd love to have
-your help.
 
-## Licensing
-
-By contributing to libgit2, you agree to release your contribution under
-the terms of the license.  Except for the `examples` and the
-`deps` directories, all code is released under the [GPL v2 with
-linking exception](../COPYING).
-
-The `examples` code is governed by the
-[CC0 Public Domain Dedication](../examples/COPYING), so that you may copy
-from them into your own application.
-
-The bundled dependencies in the `deps` directories are governed
-by the following licenses:
-
-- http-parser is licensed under [MIT license](../deps/http-parser/COPYING)
-- pcre is governed by [BSD license](../deps/pcre/LICENCE)
-- winhttp is governed by [LGPL v2.1+](../deps/winhttp/COPYING.LGPL) and [GPL v2 with linking exception](../deps/winhttp/COPYING.GPL)
-- zlib is governed by [zlib license](../deps/zlib/COPYING)
 
 ## Discussion & Chat
 
